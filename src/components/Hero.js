@@ -26,9 +26,10 @@ export default function Hero() {
           Hi, I’m Zarlish Abassi
         </h1>
         <p className="text-lg md:text-xl mb-6">
-          English Spoken Teacher | Content Creator
+          Spoken English Teacher | Communication Coach | Language Enthusiast
         </p>
         <a
+
           href="/Zarlish Abbasi CV --1.pdf"
           download
           className="inline-block px-6 py-3 bg-white text-black font-semibold rounded-lg hover:bg-gray-200 transition"

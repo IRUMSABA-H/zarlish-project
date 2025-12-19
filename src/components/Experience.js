@@ -2,33 +2,19 @@
 import { motion } from 'framer-motion';
 
 const experienceData = [
-  {
-    role: "English Grammar Instructor",
-    company: "PSOL",
-    duration: "July 2023 – September 2023",
-    description:
-      "Served as a proficient English language instructor, conducting lessons for students at different skill levels, developing and evaluating assessments, and providing constructive feedback to support students' educational development.",
-  },
-  {
-    role: "Content Writer",
-    company: "Different Organizations",
-    duration: "2021 – Present",
-    description:
-      "Working as a content writer with experience in crafting engaging descriptions, blog posts, and social media content for various organizations.",
-  },
-  {
-    role: "Data Entry Analyst / Researcher",
-    company: "Node Cypher",
-    duration: "June 2024 – September 2024",
-    description:
-      "Efficiently entered data into databases, maintaining high standards of accuracy and attention to detail. Conducted in-depth research on CEOs, companies, and industry trends to gather accurate data.",
-  },
-  {
+   {
     role: "Spoken English Course Instructor",
-    company: "Vocan.ZA",
+    company: "Vocab.ZA",
     duration: "December 2024 – Present",
     description:
       "Designed and delivered comprehensive Spoken English courses, improving students' communication skills, confidence, and fluency through interactive lessons, role-plays, and constructive feedback.",
+  },
+  {
+    role: "Montessori Teacher",
+    company: " The lynx school",
+    duration: "August 2025- Present",
+    description:
+      "I joined Lynx School in August as a homeroom teacher for nursery kids, marking a new chapter in my teaching journey. Transitioning from teaching adults to young children was a refreshing experience, teaching me the beauty of shaping young minds. I've learned that teaching little ones is not just about imparting knowledge, but nurturing their growth and personality. It's been a two-way learning curve - while I've taught them, they've taught me patience, creativity, and joy. The experience has been incredibly rewarding, and I feel fortunate to connect with these young hearts. The love and energy they bring is contagious, making every day a delight..",
   },
   {
     role: "Keynote Speaker",
@@ -44,6 +30,24 @@ const experienceData = [
     description:
       "Taught English to international students following the Canadian curriculum, enhancing grammar, writing, and reading comprehension. Provided guidance and feedback to improve communication abilities and student confidence.",
   },
+  {
+    role: "English Grammar Instructor",
+    company: "PSOL",
+    duration: "July 2023 – September 2023",
+    description:
+      "Served as a proficient English language instructor, conducting lessons for students at different skill levels, developing and evaluating assessments, and providing constructive feedback to support students' educational development.",
+  },
+  {
+    role: "Content Writer",
+    company: "Different Organizations",
+    duration: "2021 – Present",
+    description:
+      "Working as a content writer with experience in crafting engaging descriptions, blog posts, and social media content for various organizations.",
+  },
+  
+ 
+  
+  
 ];
 
 export default function Experience() {
